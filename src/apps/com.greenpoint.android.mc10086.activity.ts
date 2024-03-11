@@ -84,5 +84,17 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 14,
+      name: '圆形弹窗',
+      activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
+      rules: [
+        {
+          matches:
+            '[id="com.greenpoint.android.mc10086.activity:id/close"]',
+          snapshotUrls: ['https://i.gkd.li/i/14561782'],
+        },
+      ],
+    },
   ],
 });
