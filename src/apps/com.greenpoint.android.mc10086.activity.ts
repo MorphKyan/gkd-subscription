@@ -92,7 +92,7 @@ export default defineAppConfig({
         {
           matches:
             '[id="com.greenpoint.android.mc10086.activity:id/close"]',
-          snapshotUrls: ['https://i.gkd.li/i/14561782'],
+          snapshotUrls: ['https://i.gkd.li/import/14561782'],
         },
       ],
     },
