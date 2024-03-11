@@ -1,6 +1,6 @@
 # 中国移动
 
-存在 6 规则组 - [com.greenpoint.android.mc10086.activity](/src/apps/com.greenpoint.android.mc10086.activity.ts)
+存在 7 规则组 - [com.greenpoint.android.mc10086.activity](/src/apps/com.greenpoint.android.mc10086.activity.ts)
 
 ## 关闭更新弹窗
 
@@ -40,3 +40,9 @@
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/12662345)
+
+## 局部广告
+
+默认禁用
+
+- [快照-0](https://i.gkd.li/import/14561782)
