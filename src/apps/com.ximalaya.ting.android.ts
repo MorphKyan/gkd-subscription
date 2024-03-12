@@ -237,8 +237,8 @@ export default defineAppConfig({
     },
     {
       key: 13,
-      name: '推送通知',
-      desc: '取消推送通知',
+      name: '局部广告',
+      desc: '播放界面暂停时，上半部分的广告',
       rules: [
         {
           quickFind: true,
