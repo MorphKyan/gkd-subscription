@@ -220,9 +220,9 @@ export default defineAppConfig({
       rules: [
         {
           quickFind: true,
-          activityIds: 'com.bilibili.ship.theseus.detail.UnitedBizDetailsActivity',
-          matches:
-            '[id="android:id/button1"]',
+          activityIds:
+            'com.bilibili.ship.theseus.detail.UnitedBizDetailsActivity',
+          matches: '[id="android:id/button1"]',
           snapshotUrls: 'https://i.gkd.li/import/14569350',
         },
       ],
