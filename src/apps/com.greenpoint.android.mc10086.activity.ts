@@ -87,9 +87,11 @@ export default defineAppConfig({
     {
       key: 14,
       name: '局部广告',
-      activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
+      desc: '右下角小圆球，点击x将其最小化',
       rules: [
         {
+          quickFind: true,
+          activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
           matches: '[id="com.greenpoint.android.mc10086.activity:id/close"]',
           snapshotUrls: ['https://i.gkd.li/import/14561782'],
         },
