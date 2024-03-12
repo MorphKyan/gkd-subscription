@@ -7,7 +7,7 @@ const subsConfig: RawSubscription = {
   id: 0,
   version: 0,
   name: '默认订阅',
-  author: 'lisonge',
+  author: 'morphkyan',
   supportUri: 'https://github.com/morphkyan/gkd-subscription',
   updateUrl:
     'https://registry.npmmirror.com/@morph-kyan/gkd-subscription/latest/files',
