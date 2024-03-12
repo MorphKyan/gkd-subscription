@@ -245,7 +245,7 @@ export default defineAppConfig({
           activityIds: 'com.ximalaya.ting.android.host.activity.MainActivity',
           matches:
             '[id="com.ximalaya.ting.android:id/main_play_ad_close_text"]',
-          snapshotUrls: 'https://i.gkd.li/import/171021216790',
+          snapshotUrls: 'https://i.gkd.li/import/14569334',
         },
       ],
     },
