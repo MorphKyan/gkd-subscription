@@ -1,5 +1,5 @@
 {
-  "name": "@gkd-kit/subscription",
+  "name": "@morph-kyan/gkd-subscription",
   "type": "module",
   "version": "1.187.0",
   "main": "./dist/gkd.json5",
@@ -45,13 +45,13 @@
   },
   "author": "lisonge",
   "license": "MIT",
-  "homepage": "https://github.com/gkd-kit/subscription#readme",
+  "homepage": "https://github.com/morphkyan/gkd-subscription#readme",
   "bugs": {
-    "url": "https://github.com/gkd-kit/subscription/issues"
+    "url": "https://github.com/morphkyan/gkd-subscription/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gkd-kit/subscription.git"
+    "url": "git+https://github.com/morphkyan/gkd-subscription.git"
   },
   "volta": {
     "node": "20.9.0"
