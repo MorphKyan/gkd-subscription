@@ -516,7 +516,7 @@
 | 携程旅行               | [ctrip.android.view](/docs/ctrip.android.view.md)                                                                                                                 | 1      |
 | 稀饭动漫               | [com.xfani.app](/docs/com.xfani.app.md)                                                                                                                           | 1      |
 | 西瓜视频               | [com.ss.android.article.video](/docs/com.ss.android.article.video.md)                                                                                             | 4      |
-| 喜马拉雅               | [com.ximalaya.ting.android](/docs/com.ximalaya.ting.android.md)                                                                                                   | 13     |
+| 喜马拉雅               | [com.ximalaya.ting.android](/docs/com.ximalaya.ting.android.md)                                                                                                   | 14     |
 | 喜马拉雅极速版         | [com.ximalaya.ting.lite](/docs/com.ximalaya.ting.lite.md)                                                                                                         | 5      |
 | 心动日常               | [com.youloft.icloser](/docs/com.youloft.icloser.md)                                                                                                               | 2      |
 | 醒图                   | [com.xt.retouch](/docs/com.xt.retouch.md)                                                                                                                         | 1      |
