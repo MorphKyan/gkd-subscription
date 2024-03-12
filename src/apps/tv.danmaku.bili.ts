@@ -213,5 +213,19 @@ export default defineAppConfig({
         '[text="开启个性化内容推荐"] +3 [id="tv.danmaku.bili:id/close_button"]',
       snapshotUrls: 'https://i.gkd.li/import/13448905',
     },
+    {
+      key: 12,
+      name: '功能类',
+      desc: '网络流量使用提醒，点击确定缓存',
+      rules: [
+        {
+          quickFind: true,
+          activityIds: 'com.bilibili.ship.theseus.detail.UnitedBizDetailsActivity',
+          matches:
+            '[id="android:id/button1"]',
+          snapshotUrls: 'https://i.gkd.li/import/14569350',
+        },
+      ],
+    },
   ],
 });
