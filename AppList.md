@@ -126,7 +126,7 @@
 | 宝宝树孕育             | [com.babytree.apps.pregnancy](/docs/com.babytree.apps.pregnancy.md)                                                                                               | 2      |
 | 倍思                   | [com.baseus.intelligent](/docs/com.baseus.intelligent.md)                                                                                                         | 1      |
 | 必剪                   | [com.bilibili.studio](/docs/com.bilibili.studio.md)                                                                                                               | 2      |
-| 哔哩哔哩               | [tv.danmaku.bili](/docs/tv.danmaku.bili.md)                                                                                                                       | 11     |
+| 哔哩哔哩               | [tv.danmaku.bili](/docs/tv.danmaku.bili.md)                                                                                                                       | 12     |
 | 哔哩哔哩HD             | [tv.danmaku.bilibilihd](/docs/tv.danmaku.bilibilihd.md)                                                                                                           | 2      |
 | 哔哩哔哩漫画           | [com.bilibili.comic](/docs/com.bilibili.comic.md)                                                                                                                 | 1      |
 | 比亚迪王朝             | [com.byd.aeri.caranywhere](/docs/com.byd.aeri.caranywhere.md)                                                                                                     | 1      |

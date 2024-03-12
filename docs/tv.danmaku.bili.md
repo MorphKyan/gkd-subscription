@@ -1,6 +1,6 @@
 # 哔哩哔哩
 
-存在 11 规则组 - [tv.danmaku.bili](/src/apps/tv.danmaku.bili.ts)
+存在 12 规则组 - [tv.danmaku.bili](/src/apps/tv.danmaku.bili.ts)
 
 ## 开屏广告
 
@@ -85,3 +85,9 @@
 默认禁用
 
 - [快照-0](https://i.gkd.li/import/13448905)
+
+## 功能类
+
+默认禁用 - 网络流量使用提醒，点击确定缓存
+
+- [快照-0](https://i.gkd.li/import/14569350)
