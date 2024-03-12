@@ -235,5 +235,18 @@ export default defineAppConfig({
         },
       ],
     },
+    {
+      key: 13,
+      name: '推送通知',
+      desc: '取消推送通知',
+      rules: [
+        {
+          quickFind: true,
+          activityIds: 'com.ximalaya.ting.android.host.activity.MainActivity',
+          matches: '[id="com.ximalaya.ting.android:id/main_play_ad_close_text"]',
+          snapshotUrls: 'https://i.gkd.li/import/1710212167904',
+        },
+      ],
+    },
   ],
 });
