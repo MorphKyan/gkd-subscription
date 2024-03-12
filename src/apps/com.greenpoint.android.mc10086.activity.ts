@@ -90,8 +90,7 @@ export default defineAppConfig({
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
         {
-          matches:
-            '[id="com.greenpoint.android.mc10086.activity:id/close"]',
+          matches: '[id="com.greenpoint.android.mc10086.activity:id/close"]',
           snapshotUrls: ['https://i.gkd.li/import/14561782'],
         },
       ],

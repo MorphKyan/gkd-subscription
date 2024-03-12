@@ -243,7 +243,8 @@ export default defineAppConfig({
         {
           quickFind: true,
           activityIds: 'com.ximalaya.ting.android.host.activity.MainActivity',
-          matches: '[id="com.ximalaya.ting.android:id/main_play_ad_close_text"]',
+          matches:
+            '[id="com.ximalaya.ting.android:id/main_play_ad_close_text"]',
           snapshotUrls: 'https://i.gkd.li/import/1710212167904',
         },
       ],
