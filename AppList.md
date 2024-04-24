@@ -256,7 +256,7 @@
 | 交易猫                 | [com.jym.mall](/docs/com.jym.mall.md)                                                                                                                             | 1      |
 | 驾校一点通             | [com.jxedt](/docs/com.jxedt.md)                                                                                                                                   | 2      |
 | 解压专家               | [com.fileunzip.zxwknight](/docs/com.fileunzip.zxwknight.md)                                                                                                       | 2      |
-| 京东                   | [com.jingdong.app.mall](/docs/com.jingdong.app.mall.md)                                                                                                           | 10     |
+| 京东                   | [com.jingdong.app.mall](/docs/com.jingdong.app.mall.md)                                                                                                           | 2      |
 | 京东到家               | [com.jingdong.pdj](/docs/com.jingdong.pdj.md)                                                                                                                     | 2      |
 | 京东读书               | [com.jd.app.reader](/docs/com.jd.app.reader.md)                                                                                                                   | 3      |
 | 京东金融               | [com.jd.jrapp](/docs/com.jd.jrapp.md)                                                                                                                             | 3      |
