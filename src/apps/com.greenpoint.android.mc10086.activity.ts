@@ -37,7 +37,8 @@ export default defineAppConfig({
         },
         {
           quickFind: true,
-          matches: '[id="com.greenpoint.android.mc10086.activity:id/btn_cancel"][text="取消"]',
+          matches:
+            '[id="com.greenpoint.android.mc10086.activity:id/btn_cancel"][text="取消"]',
           snapshotUrls: ['https://i.gkd.li/import/13775652'],
         },
       ],
