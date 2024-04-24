@@ -6,7 +6,7 @@ export default defineAppConfig({
   groups: [
     {
       key: 1,
-      name: '关闭更新弹窗',
+      name: '更新提示',
       activityIds: 'com.mc10086.cmcc.view.tabs.AppTabFragment',
       snapshotUrls: 'https://i.gkd.li/import/12534264',
       rules:
@@ -14,7 +14,7 @@ export default defineAppConfig({
     },
     {
       key: 2,
-      name: '首页广告弹窗',
+      name: '全屏广告-首页广告',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
         {
@@ -26,7 +26,7 @@ export default defineAppConfig({
     },
     {
       key: 3,
-      name: '推送授权提醒',
+      name: '权限提示-推送授权提醒',
       desc: '请求推送授权提醒弹窗，点击取消',
       activityIds: 'com.mc10086.cmcc.base.StartPageActivity',
       rules: [
@@ -44,7 +44,7 @@ export default defineAppConfig({
     },
     {
       key: 4,
-      name: '请求获取剪贴板权限弹窗',
+      name: '权限提示-请求获取剪贴板权限弹窗',
       desc: '请求获取剪贴板权限弹窗，点击不允许',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
@@ -60,7 +60,7 @@ export default defineAppConfig({
     },
     {
       key: 5,
-      name: '右侧悬浮小图标',
+      name: '局部广告-右侧悬浮小图标',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
         {
@@ -72,7 +72,7 @@ export default defineAppConfig({
     },
     {
       key: 6,
-      name: '请求好评弹窗',
+      name: '评价提示-请求好评弹窗',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
         {
@@ -84,7 +84,7 @@ export default defineAppConfig({
     },
     {
       key: 7,
-      name: '局部广告',
+      name: '局部广告-右下角小圆球',
       desc: '右下角小圆球，点击x将其最小化',
       rules: [
         {
