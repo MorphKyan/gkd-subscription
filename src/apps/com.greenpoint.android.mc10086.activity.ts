@@ -35,6 +35,11 @@ export default defineAppConfig({
           matches: '[text="授权提醒"] +3 [text="拒绝"]',
           snapshotUrls: ['https://i.gkd.li/import/13775652'],
         },
+        {
+          quickFind: true,
+          matches: '[id="com.greenpoint.android.mc10086.activity:id/btn_cancel"][text="取消"]',
+          snapshotUrls: ['https://i.gkd.li/import/13775652'],
+        },
       ],
     },
     {
