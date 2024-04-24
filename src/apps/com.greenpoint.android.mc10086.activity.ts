@@ -25,18 +25,11 @@ export default defineAppConfig({
       ],
     },
     {
-      key: 10,
-      name: '请求推送通知弹窗',
-      desc: '请求推送通知弹窗，点击取消',
+      key: 3,
+      name: '推送授权提醒',
+      desc: '请求推送授权提醒弹窗，点击取消',
       activityIds: 'com.mc10086.cmcc.base.StartPageActivity',
       rules: [
-        {
-          matches: '[text*="开启推送通知"] +(2) LinearLayout > [text="取消"]',
-          snapshotUrls: [
-            'https://i.gkd.li/import/12662213',
-            'https://i.gkd.li/import/13327880',
-          ],
-        },
         {
           quickFind: true,
           matches: '[text="授权提醒"] +3 [text="拒绝"]',
@@ -45,7 +38,7 @@ export default defineAppConfig({
       ],
     },
     {
-      key: 11,
+      key: 4,
       name: '请求获取剪贴板权限弹窗',
       desc: '请求获取剪贴板权限弹窗，点击不允许',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
@@ -61,7 +54,7 @@ export default defineAppConfig({
       ],
     },
     {
-      key: 12,
+      key: 5,
       name: '右侧悬浮小图标',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
@@ -73,7 +66,7 @@ export default defineAppConfig({
       ],
     },
     {
-      key: 13,
+      key: 6,
       name: '请求好评弹窗',
       activityIds: ['com.mc10086.cmcc.view.tabs.AppTabFragment'],
       rules: [
@@ -85,7 +78,7 @@ export default defineAppConfig({
       ],
     },
     {
-      key: 14,
+      key: 7,
       name: '局部广告',
       desc: '右下角小圆球，点击x将其最小化',
       rules: [
