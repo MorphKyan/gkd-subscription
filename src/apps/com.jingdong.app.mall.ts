@@ -7,7 +7,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 1,
-      name: '弹窗-开启消息通知',
+      name: '权限提示-开启消息通知',
       desc: '自动点击正下方的【x】',
       quickFind: true,
       rules: [
@@ -21,7 +21,7 @@ export default defineAppConfig({
     {
       enable: false,
       key: 2,
-      name: '购物车界面-支付成功广告弹窗',
+      name: '局部广告-购物车支付成功广告弹窗',
       desc: '自动点击正下方的【x】',
       quickFind: true,
       rules: [
